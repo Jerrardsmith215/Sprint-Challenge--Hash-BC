@@ -25,8 +25,11 @@ This sprint challenge is divided up into three parts:  Hash tables (24 points), 
 During your challenge, you will be pulled aside by a PM for a 5 minute interview. During this interview, you will be expected to answer the following three questions:
 
   * 1. What is a blockchain and how does it work?
-  * 2. What is an array and how does it work?
+  Block chain is a decentralized chain of information.
+  * 2. What is an array and how does it work? 
+  An array is a set of data tha shares the same type and exists over a set o addresses in RAM.  It works b storing data into the memory in alocated blocks.
   * 3. What is a hash table and how does it work?
+  A hash table is a data structure that is advantageous because it has the flexibility of deciding a data type and controlling its name and methodsds of accessibility. However, because it uses a function to transofrm the datainto acceptable array data, it maintains the time/space complexity of an array while in fact being more complex on the abstract level. 
 
 You will receive points at the PM's discretion based on the following criteria:
 
